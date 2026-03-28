@@ -3,7 +3,7 @@
 <h1 align="center">Olá, eu sou o André Luiz! 👋</h1>
 
 <p align="center">
-Desenvolvedor autodidata apaixonado por tecnologia, inteligência artificial e computação quântica. 🌌💡  
+Engenheiro da Computação no 8º Período, Desenvolvedor autodidata apaixonado por tecnologia, inteligência artificial e computação quântica. 🌌💡  
 Atualmente cursando Análise e Desenvolvimento de Sistemas pela UVA-RJ 🎓
 </p>
 
@@ -36,3 +36,4 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas pela UVA-RJ 🎓
 ---
 
 💬 Sempre em busca de novos aprendizados e parcerias para criar projetos que realmente impactem pessoas! 🚀
+
